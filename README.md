@@ -1,3 +1,9 @@
 # CWSPCollections
 
-A description of this package.
+## Handy collection classes:
+
+- Linked List
+- OrderedDictionary
+- LRUCache
+- RefArray
+- SynchroObjs
